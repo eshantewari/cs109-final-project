@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.5in"
+   height="2.5in"
+   viewBox="0 0 139.7 63.500002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bagging_score_boostraps.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="2.8934905"
+     inkscape:cx="266.97859"
+     inkscape:cy="86.919243"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-38.123042"
+       y="-45.943153"
+       width="65.493431"
+       height="56.207049"
+       id="rect2536" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath956">
+      <path
+         d="m 40.575,27.8875 h 139.5 v 135.9 h -139.5 z"
+         id="path954" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1197">
+      <path
+         d="m 34.2,27.8875 h 139.5 v 135.9 H 34.2 Z"
+         id="path1195" />
+    </clipPath>
+    <rect
+       x="-38.123043"
+       y="-45.943153"
+       width="65.493431"
+       height="56.20705"
+       id="rect2536-0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6835">
+      <path
+         d="m 43.7625,27.8875 h 139.5 v 135.9 h -139.5 z"
+         id="path6833" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7108">
+      <path
+         d="m 37.3875,27.8875 h 139.5 v 135.9 h -139.5 z"
+         id="path7106" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6950"
+       inkscape:label="bag_oob_nboots"
+       transform="matrix(0.35277777,0,0,-0.35277777,73.786875,63.847083)">
+      <path
+         d="m 37.3875,27.8875 h 139.5 v 135.9 h -139.5 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6952" />
+      <path
+         d="m 43.728409,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6954" />
+      <g
+         id="g6956"
+         transform="translate(38.150284,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6960"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6958">10.0</tspan></text>
+      </g>
+      <path
+         d="m 59.580682,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6962" />
+      <g
+         id="g6964"
+         transform="translate(54.002557,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6968"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6966">12.5</tspan></text>
+      </g>
+      <path
+         d="m 75.432955,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6970" />
+      <g
+         id="g6972"
+         transform="translate(69.85483,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6976"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6974">15.0</tspan></text>
+      </g>
+      <path
+         d="m 91.285227,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6978" />
+      <g
+         id="g6980"
+         transform="translate(85.707102,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6984"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6982">17.5</tspan></text>
+      </g>
+      <path
+         d="m 107.1375,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6986" />
+      <g
+         id="g6988"
+         transform="translate(101.55937,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6992"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6990">20.0</tspan></text>
+      </g>
+      <path
+         d="m 122.98977,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6994" />
+      <g
+         id="g6996"
+         transform="translate(117.41165,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7000"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6998">22.5</tspan></text>
+      </g>
+      <path
+         d="m 138.84205,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7002" />
+      <g
+         id="g7004"
+         transform="translate(133.26392,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7008"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7006">25.0</tspan></text>
+      </g>
+      <path
+         d="m 154.69432,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7010" />
+      <g
+         id="g7012"
+         transform="translate(149.11619,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7016"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7014">27.5</tspan></text>
+      </g>
+      <path
+         d="m 170.54659,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7018" />
+      <g
+         id="g7020"
+         transform="translate(164.96847,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7024"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7022">30.0</tspan></text>
+      </g>
+      <g
+         id="g7026"
+         transform="translate(79.707813,8.246875)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7030"><tspan
+             x="0 3.74 6.9099998 11.78 14.955 18.030001 20.084999 21.674999 24.735001 26.495001 28.084999 31.26 34.32 37.380001 39.34 41.945 43.904999 45.959999 49.025002 52.200001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7028">Number of bootstraps</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,40.347633 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7032" />
+      <g
+         id="g7034"
+         transform="translate(16.04375,38.449196)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7038"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7036">0.200</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,56.591525 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7040" />
+      <g
+         id="g7042"
+         transform="translate(16.04375,54.693088)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7046"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7044">0.225</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,72.835418 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7048" />
+      <g
+         id="g7050"
+         transform="translate(16.04375,70.93698)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7054"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7052">0.250</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,89.07931 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7056" />
+      <g
+         id="g7058"
+         transform="translate(16.04375,87.180873)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7062"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7060">0.275</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,105.3232 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7064" />
+      <g
+         id="g7066"
+         transform="translate(16.04375,103.42477)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7070"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7068">0.300</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,121.5671 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7072" />
+      <g
+         id="g7074"
+         transform="translate(16.04375,119.66866)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7078"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7076">0.325</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,137.81099 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7080" />
+      <g
+         id="g7082"
+         transform="translate(16.04375,135.91255)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7086"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7084">0.350</tspan></text>
+      </g>
+      <path
+         d="m 37.3875,154.05488 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7088" />
+      <g
+         id="g7090"
+         transform="translate(16.04375,152.15644)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7094"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7092">0.375</tspan></text>
+      </g>
+      <g
+         id="g7096"
+         transform="rotate(90,-35.69375,46.690625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text7100"><tspan
+             x="0 3.9349999 7.8699999 11.3 12.89 16.065001 18.815001 21.875 23.820625"
+             y="0"
+             sodipodi:role="line"
+             id="tspan7098">OOB Score</tspan></text>
+      </g>
+      <g
+         id="g7102">
+        <g
+           id="g7104"
+           clip-path="url(#clipPath7108)">
+          <path
+             d="m 43.728409,34.064773 6.340909,18.983004 6.340909,18.761054 6.340909,12.634538 6.340909,10.06056 6.34091,10.916361 6.340909,1.79148 6.340909,11.78643 6.340909,11.83341 6.340908,2.83168 6.34091,-3.92627 6.34091,-2.33695 6.34091,1.19623 6.34091,-0.0361 6.34091,5.68909 6.34091,4.35381 6.3409,8.72919 6.34091,2.92594 6.34091,6.40931 6.34091,-3.20378 6.34091,4.14642"
+             style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path7110" />
+        </g>
+      </g>
+      <g
+         id="g7112">
+        <path
+           d="m 37.3875,27.8875 v 135.9"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path7114" />
+        <path
+           d="m 176.8875,27.8875 v 135.9"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path7116" />
+        <path
+           d="m 37.3875,27.8875 h 139.5"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path7118" />
+        <path
+           d="m 37.3875,163.7875 h 139.5"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path7120" />
+        <g
+           id="g7122"
+           transform="translate(24.207812,169.7875)">
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:6px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text7126"><tspan
+               x="0 4.1160002 7.7940001 11.604 15.414 17.082001 20.886 24.695999 26.604 30.275999 33.948002 37.757999 39.666 42.792 46.091999 49.764 52.105 55.794998 57.702999 61.255001 64.932999 67.399002 69.067001 72.745003 75.097 76.764999 80.436996 84.240997 86.149002 91.056999 92.724998 95.077003 98.880997 100.789 104.593 108.397 114.241 118.051 121.741 124.207 126.115 129.787 131.899 133.80701 137.617 141.289 144.961 147.313 150.439 152.791 155.257 158.935 162.745"
+               y="0"
+               sodipodi:role="line"
+               id="tspan7124">Bagging oob score variation with number of bootstraps</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6677"
+       inkscape:label="bag_mse_nboots"
+       transform="matrix(0.35277777,0,0,-0.35277777,2.6427154,63.847083)">
+      <path
+         d="m 43.7625,27.8875 h 139.5 v 135.9 h -139.5 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6679" />
+      <path
+         d="m 50.103409,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6681" />
+      <g
+         id="g6683"
+         transform="translate(44.525284,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6687"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6685">10.0</tspan></text>
+      </g>
+      <path
+         d="m 65.955682,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6689" />
+      <g
+         id="g6691"
+         transform="translate(60.377557,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6695"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6693">12.5</tspan></text>
+      </g>
+      <path
+         d="m 81.807955,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6697" />
+      <g
+         id="g6699"
+         transform="translate(76.22983,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6703"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6701">15.0</tspan></text>
+      </g>
+      <path
+         d="m 97.660227,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6705" />
+      <g
+         id="g6707"
+         transform="translate(92.082102,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6711"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6709">17.5</tspan></text>
+      </g>
+      <path
+         d="m 113.5125,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6713" />
+      <g
+         id="g6715"
+         transform="translate(107.93438,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6719"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6717">20.0</tspan></text>
+      </g>
+      <path
+         d="m 129.36477,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6721" />
+      <g
+         id="g6723"
+         transform="translate(123.78665,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6727"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6725">22.5</tspan></text>
+      </g>
+      <path
+         d="m 145.21704,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6729" />
+      <g
+         id="g6731"
+         transform="translate(139.63892,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6735"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6733">25.0</tspan></text>
+      </g>
+      <path
+         d="m 161.06932,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6737" />
+      <g
+         id="g6739"
+         transform="translate(155.49119,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6743"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6741">27.5</tspan></text>
+      </g>
+      <path
+         d="m 176.92159,27.8875 v -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6745" />
+      <g
+         id="g6747"
+         transform="translate(171.34347,17.090625)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6751"><tspan
+             x="0 3.1800001 6.3600001 7.9499998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6749">30.0</tspan></text>
+      </g>
+      <g
+         id="g6753"
+         transform="translate(86.082812,8.246875)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6757"><tspan
+             x="0 3.74 6.9099998 11.78 14.955 18.030001 20.084999 21.674999 24.735001 26.495001 28.084999 31.26 34.32 37.380001 39.34 41.945 43.904999 45.959999 49.025002 52.200001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6755">Number of bootstraps</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,30.713324 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6759" />
+      <g
+         id="g6761"
+         transform="translate(16.04375,28.814887)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6765"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6763">0.00090</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,48.356573 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6767" />
+      <g
+         id="g6769"
+         transform="translate(16.04375,46.458136)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6773"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6771">0.00092</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,65.999822 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6775" />
+      <g
+         id="g6777"
+         transform="translate(16.04375,64.101385)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6781"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6779">0.00094</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,83.643071 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6783" />
+      <g
+         id="g6785"
+         transform="translate(16.04375,81.744634)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6789"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6787">0.00096</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,101.28632 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6791" />
+      <g
+         id="g6793"
+         transform="translate(16.04375,99.387883)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6797"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6795">0.00098</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,118.92957 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6799" />
+      <g
+         id="g6801"
+         transform="translate(16.04375,117.03113)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6805"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6803">0.00100</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,136.57282 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6807" />
+      <g
+         id="g6809"
+         transform="translate(16.04375,134.67438)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6813"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6811">0.00102</tspan></text>
+      </g>
+      <path
+         d="m 43.7625,154.21607 h -3.5"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path6815" />
+      <g
+         id="g6817"
+         transform="translate(16.04375,152.31763)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6821"><tspan
+             x="0 3.1800001 4.77 7.9499998 11.13 14.31 17.49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6819">0.00104</tspan></text>
+      </g>
+      <g
+         id="g6823"
+         transform="rotate(90,-30.00625,41.003125)">
+        <text
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:5px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6827"><tspan
+             x="0 4.8699999 7.9450002 11.01 14.18 15.77 18.375 21.549999 24.719999 27.785 29.730625 32.805626 35.980625 37.570625 40.645626 42.622501 44.568127 47.628124"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6825">mean squared error</tspan></text>
+      </g>
+      <g
+         id="g6829">
+        <g
+           id="g6831"
+           clip-path="url(#clipPath6835)">
+          <path
+             d="m 50.103409,157.61023 6.340909,-45.03116 6.340909,-27.094133 6.340909,-40.161762 6.340909,16.745253 6.34091,23.504349 6.340909,-6.547383 6.340909,5.999018 6.340907,-12.598578 6.34091,-6.51339 6.34091,-2.610084 6.34091,8.789248 6.34091,-1.288439 6.34091,-2.480621 6.34091,-7.509768 6.3409,0.206803 6.34091,-4.28699 6.34091,-7.619413 6.34091,4.556216 6.34091,-2.582041 6.34091,-17.022582"
+             style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path6837" />
+        </g>
+      </g>
+      <g
+         id="g6839">
+        <path
+           d="m 43.7625,27.8875 v 135.9"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path6841" />
+        <path
+           d="m 183.2625,27.8875 v 135.9"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path6843" />
+        <path
+           d="m 43.7625,27.8875 h 139.5"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path6845" />
+        <path
+           d="m 43.7625,163.7875 h 139.5"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path6847" />
+        <g
+           id="g6849"
+           transform="translate(31.653125,169.7875)">
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:6px;font-family:DejaVuSans;-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text6853"><tspan
+               x="0 4.1160002 7.7940001 11.604 15.414 17.082001 20.886 24.695999 26.604 30.282 33.582001 36.882 40.686001 43.152 46.830002 50.130001 53.681999 55.59 59.141998 62.82 65.286003 66.954002 70.632004 72.984001 74.652 78.323997 82.127998 84.036003 88.944 90.612 92.963997 96.767998 98.676003 102.48 106.284 112.128 115.938 119.628 122.094 124.002 127.674 129.786 131.694 135.504 139.17599 142.84801 145.2 148.326 150.67799 153.144 156.82201 160.632"
+               y="0"
+               sodipodi:role="line"
+               id="tspan6851">Bagging accuracy variation with number of bootstraps</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,14.801628,13.188493)"
+       id="text2534"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0000001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2536);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-38.123047"
+         y="-38.644717"
+         id="tspan8963">a</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,86.385744,13.195383)"
+       id="text2534-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.0000001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2536-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-38.123047"
+         y="-38.644717"
+         id="tspan8965">b</tspan></text>
+  </g>
+</svg>
